@@ -1,0 +1,70 @@
+.bgimage{
+
+	background-image: url('../images/1234.jpg');
+	background-position: center center;
+	background-size: cover;
+	height: 300px;
+
+}
+.imgb{
+
+	background-image: url('../images/Chicago.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 200px;
+}
+.img{
+	width: 450px;
+	height: 450px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom:10px; 
+}
+.items{
+	text-align: center;
+}
+
+@media(min-width:1200px){
+.myimg{
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom:10px; 
+}
+
+.items{
+	text-align: left;
+}
+}
+
+
+.main p{
+
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
